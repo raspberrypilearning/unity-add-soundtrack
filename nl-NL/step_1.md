@@ -1,7 +1,7 @@
-Click the '+' at the top of the Hierarchy window and choose 'Audio' then 'Audio Source'. In the Inspector, click on the circle next to AudioClip and choose your music.
+Klik op de '+' bovenaan het Hierarchy venster en kies 'Audio' en vervolgens 'Audio Source'. Klik in de Inspector op de cirkel naast AudioClip en kies je muziek.
 
-Make sure 'Play on Awake' is selected to automatically play the music and check the 'Loop' box to play the music repeatedly in a loop.
+Zorg ervoor dat 'Play on Awake' is geselecteerd om de muziek automatisch af te spelen en vink het vakje 'Loop' aan om de muziek herhaaldelijk in een lus af te spelen.
 
-You can also adjust the volume.
+Je kunt ook het volume aanpassen.
 
-![Audio source component with MenuTheme clip selected and Play on Awake and Loop settings checked.](images/audio-loop.png)
+![Audio source component met MenuTheme-clip geselecteerd en Play on Awake en Loop-instellingen aangevinkt.](images/audio-loop.png)
