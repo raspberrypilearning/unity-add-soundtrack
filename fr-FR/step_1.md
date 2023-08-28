@@ -1,7 +1,7 @@
-Click the **+** at the top of the Hierarchy window and choose **Audio** then **Audio Source**. In the Inspector, click on the circle next to AudioClip and choose your music.
+Clique sur le **+** en haut de la fenêtre Hierarchy et choisis **Audio** puis **Audio Source**. Dans l'Inspector, clique sur le cercle à côté de AudioClip et choisis ta musique.
 
-Make sure 'Play on Awake' is selected to automatically play the music and check the 'Loop' box to play the music repeatedly in a loop.
+Assure-toi que « Play on Awake » est sélectionné pour jouer automatiquement la musique et coche la case « Loop » pour jouer la musique en boucle.
 
-You can also adjust the volume.
+Tu peux aussi régler le volume.
 
-![Audio source component with MenuTheme clip selected and Play on Awake and Loop settings checked.](images/audio-loop.png)
+![Composant Audio Source avec le clip MenuTheme sélectionné et les paramètres Play on Awake et Loop cochés.](images/audio-loop.png)
